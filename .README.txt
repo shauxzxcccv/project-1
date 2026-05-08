@@ -1,0 +1,21 @@
+This is my first non-commercial project as part of my Python learning journey. 
+
+
+About the code:
+
+The main idea of this project is an ability to create a flexible list of countries, so the users can read them, edit and add new items inside the lists with educational purposes.
+
+
+
+
+
+Change Log:
+
+  Version 1:
+
+  I have released a simple user`s interface in Python console with intuitive prompts and keywords for user requests.
+  Has been developed an ability to add countries via saving their names, codes, population, location and ruler`s names ("President's").
+  The program also includes main menu and different choice options.
+
+
+  To run it, please use a compiler with command "Python project-1.py"
